@@ -86,35 +86,36 @@ Maintains order information:
 
 # 📸 Project Screenshots
 
+## Insert Data
+
+![Insert Data](Insert_Data.png)
+
+---
+
 ## Customers Table
 
-![Customers Table](customers_table.png)
+![Customers Table](Screenshort/Customer_table.png)
 
 ---
 
 ## Products Table
 
-![Products Table](products_table.png)
+![Products Table](Screenshot/Product_table.png)
 
 ---
 
 ## Orders Table
 
-![Orders Table](orders_table.png)
+![Orders Table](Orders_table.png)
 
 ---
 
-## SQL Query
+## SQL Query With Output
 
-![SQL Query](sql_query.png)
-
----
-
-## Query Output
-
-![Query Output](query_output.png)
+![SQL Query with Output](Join_QuerryWith_Output.png)
 
 ---
+
 
 # 🎥 SQL Practice Demo
 
