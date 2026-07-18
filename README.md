@@ -88,7 +88,7 @@ Maintains order information:
 
 ## Insert Data
 
-![Insert Data](Insert_Data.png)
+![Insert Data](Screenshot/Insert_Data.png)
 
 ---
 
@@ -106,13 +106,13 @@ Maintains order information:
 
 ## Orders Table
 
-![Orders Table](Orders_table.png)
+![Orders Table](Screenshot/Orders_table.png)
 
 ---
 
 ## SQL Query With Output
 
-![SQL Query with Output](Join_QuerryWith_Output.png)
+![SQL Query with Output](Screenshot/Join_QuerryWith_Output.png)
 
 ---
 
