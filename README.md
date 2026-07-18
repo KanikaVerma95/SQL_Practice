@@ -94,7 +94,7 @@ Maintains order information:
 
 ## Customers Table
 
-![Customers Table](Screenshort/Customer_table.png)
+![Customers Table](Screenshot/Customer_table.png)
 
 ---
 
